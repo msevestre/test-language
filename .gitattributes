@@ -41,5 +41,5 @@
 
 *.sln text eol=crlf merge=union
 
-*.pkml linguist-language=MoBi
+*.pkml linguist-language=R
 *.pksim5 linguist-language=PK-Sim
